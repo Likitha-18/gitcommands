@@ -1,0 +1,8 @@
+ls
+cd
+git init
+git remote add origin <git link >
+git remote.
+git commit -m "can write anything"
+git push origin master
+git help
